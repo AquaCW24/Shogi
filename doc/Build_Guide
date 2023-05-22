@@ -1,0 +1,10 @@
+Enter the following command to compile source file(make sure your directory is in /src):
+
+#compile, enter:
+make
+
+#for create a new game, enter:
+make run
+
+#for load history, enter:
+make load
